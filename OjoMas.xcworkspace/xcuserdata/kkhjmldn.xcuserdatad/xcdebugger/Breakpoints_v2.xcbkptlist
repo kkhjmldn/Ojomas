@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OjoMas/SignupViewController.swift"
+            timestampString = "587630308.1786799"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OjoMas.SignupViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OjoMas.SignupViewController"
+                  moduleName = "OjoMas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kkhjmldn/training/ios/OjoMas/OjoMas/SignupViewController.swift"
+                  timestampString = "587630308.709543"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OjoMas.SignupViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OjoMas.SignupViewController"
+                  moduleName = "OjoMas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kkhjmldn/training/ios/OjoMas/OjoMas/SignupViewController.swift"
+                  timestampString = "587630308.717903"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OjoMas.SignupViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OjoMas.SignupViewController&gt;"
+                  moduleName = "OjoMas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kkhjmldn/training/ios/OjoMas/OjoMas/SignupViewController.swift"
+                  timestampString = "587630308.734326"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OjoMas.SignupViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OjoMas.SignupViewController&gt;"
+                  moduleName = "OjoMas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kkhjmldn/training/ios/OjoMas/OjoMas/SignupViewController.swift"
+                  timestampString = "587630308.751081"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OjoMas.SignupViewController.__deallocating_deinit"
+                  moduleName = "OjoMas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kkhjmldn/training/ios/OjoMas/OjoMas/SignupViewController.swift"
+                  timestampString = "587630308.759776"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
